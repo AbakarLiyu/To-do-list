@@ -1,0 +1,29 @@
+
+body{
+    font-family: sans-serif;
+    margin: 30px;
+    padding: 30px;
+    background: #676e67;
+}
+
+.container{
+    background: #747c74;
+    padding: 100px;
+    border-radius: 20px;
+    
+}
+
+.container input{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px;
+    width: 50%;
+}
+
+.container button{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px;
+    color: white;
+    background: #5d5f5d;
+}
